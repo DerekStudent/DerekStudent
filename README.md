@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Hey,%20I'm%20DerekStudent!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2ebe2&height=200&section=header&text=Hey,%20I'm%20DerekStudent!&fontSize=40&fontColor=ffffff" />
 </p>
 
 ### 👋 hi, I'm DerekStudent
