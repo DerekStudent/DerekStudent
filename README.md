@@ -8,7 +8,7 @@
 🎓 Junior Developer @ Firda | 17 y/o coder  
 🎮 Building fun websites & creative apps  
 🧪 Exploring web dev, backend dev & Blender
-✨ Obsessed with clean UI, smooth UX & cool effects  
+✨ Obsessed with clean UI & cool effects  
 
 ---
 
