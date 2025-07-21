@@ -5,7 +5,7 @@
 
 ### 👋 hi, I'm DerekStudent
 
-🎓 Junior Developer @ Firda | 17 y/o coder  
+🎓 Junior Developer | 17 y/o coder  
 🎮 Building fun websites & creative apps  
 🧪 Exploring web dev, backend dev & Blender
 ✨ Obsessed with clean UI & cool effects  
@@ -20,12 +20,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F5792A?style=flat&logo=MySQL&logoColor=white)
-
----
-
-### ⚒️ Projects I'm Proud Of
-- 🛜 **School Website** — clean responsive site for a school project  
-- 🛜 **Plein1890 Website** — In the making!
 
 ---
 
