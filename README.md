@@ -20,6 +20,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F5792A?style=flat&logo=MySQL&logoColor=white)
+![GIT](https://img.shields.io/badge/git-E34F26?style=flat&logo=git&logoColor=white)
 
 ---
 
