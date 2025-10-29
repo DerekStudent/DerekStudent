@@ -21,7 +21,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F5792A?style=flat&logo=MySQL&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-E34F26?style=flat&logo=git&logoColor=white)
-![AI](https://img.shields.io/badge/AI-E34F26?style=flat&logo=AI&logoColor=white)
 
 
 ---
