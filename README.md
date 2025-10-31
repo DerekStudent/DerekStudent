@@ -5,10 +5,7 @@
 
 ### 👋 hi, I'm DerekStudent
 
-🎓 Junior Developer | 17 y/o coder  
-🎮 Building fun websites & creative apps  
-🧪 Exploring web dev, backend dev & Blender
-✨ Obsessed with clean UI & cool effects  
+🎓 Junior Developer
 
 ---
 
