@@ -30,12 +30,7 @@
 ### 🤖 Industrial Automation & PLC Programming  
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-007396?style=for-the-badge&logo=siemens&logoColor=white)
-![PLC Programming](https://img.shields.io/badge/PLC_Programming-0F5F4C?style=for-the-badge&logo=plc&logoColor=white)
-![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-F7B500?style=for-the-badge&logo=plc&logoColor=black)
-![Structured Text](https://img.shields.io/badge/Structured_Text-0F5F4C?style=for-the-badge&logo=plc&logoColor=white)
-![SCL](https://img.shields.io/badge/SCL-FF8800?style=for-the-badge&logo=siemens&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-00A86B?style=for-the-badge&logo=automation&logoColor=white)
-![Industrial Networking](https://img.shields.io/badge/Industrial_Networking-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
 ![HMI Design](https://img.shields.io/badge/HMI_Design-FF6600?style=for-the-badge&logo=siemens&logoColor=white)
 
 
